@@ -15,11 +15,11 @@ namespace WelcomeMessage
 
             Console.WriteLine("Please enter your name");
             
-            // Here we use readline to pu string data into a variable;
+            // Here we use readline to put string data into a variable;
             name = Console.ReadLine();
 
             //Ask the course name 
-            Console.WriteLine("Please enter your name");
+            Console.WriteLine("Please enter your course name");
             course = Console.ReadLine();
 
             //Construct a welcome message

@@ -11,7 +11,7 @@ namespace CountingUp
         static void Main(string[] args)
         {
             // Variable to store our total number
-            decimal total = 1;
+            double total = 1.0f;
             Console.WriteLine("Total currently {0}", total);
             total += 2;
             Console.WriteLine("Total now: {0}", total);
