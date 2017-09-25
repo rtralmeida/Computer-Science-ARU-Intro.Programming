@@ -1,0 +1,7 @@
+D:\Dropbox\ARU\IP\CountingUp\CountingUp\bin\Debug\CountingUp.exe.config
+D:\Dropbox\ARU\IP\CountingUp\CountingUp\bin\Debug\CountingUp.exe
+D:\Dropbox\ARU\IP\CountingUp\CountingUp\bin\Debug\CountingUp.pdb
+D:\Dropbox\ARU\IP\CountingUp\CountingUp\obj\Debug\CountingUp.csproj.CoreCompileInputs.cache
+D:\Dropbox\ARU\IP\CountingUp\CountingUp\obj\Debug\CountingUp.exe
+D:\Dropbox\ARU\IP\CountingUp\CountingUp\obj\Debug\CountingUp.pdb
+D:\Dropbox\ARU\IP\CountingUp\CountingUp\obj\Debug\CountingUp.csprojResolveAssemblyReference.cache

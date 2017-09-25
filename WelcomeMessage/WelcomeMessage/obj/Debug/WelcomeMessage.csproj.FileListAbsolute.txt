@@ -1,0 +1,6 @@
+D:\Dropbox\ARU\IP\WelcomeMessage\WelcomeMessage\bin\Debug\WelcomeMessage.exe.config
+D:\Dropbox\ARU\IP\WelcomeMessage\WelcomeMessage\bin\Debug\WelcomeMessage.exe
+D:\Dropbox\ARU\IP\WelcomeMessage\WelcomeMessage\bin\Debug\WelcomeMessage.pdb
+D:\Dropbox\ARU\IP\WelcomeMessage\WelcomeMessage\obj\Debug\WelcomeMessage.csproj.CoreCompileInputs.cache
+D:\Dropbox\ARU\IP\WelcomeMessage\WelcomeMessage\obj\Debug\WelcomeMessage.exe
+D:\Dropbox\ARU\IP\WelcomeMessage\WelcomeMessage\obj\Debug\WelcomeMessage.pdb

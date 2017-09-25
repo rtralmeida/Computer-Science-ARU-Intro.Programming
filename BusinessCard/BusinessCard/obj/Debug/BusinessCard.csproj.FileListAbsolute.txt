@@ -1,0 +1,7 @@
+D:\Dropbox\ARU\IP\BusinessCard\BusinessCard\obj\Debug\BusinessCard.csprojResolveAssemblyReference.cache
+D:\Dropbox\ARU\IP\BusinessCard\BusinessCard\obj\Debug\BusinessCard.csproj.CoreCompileInputs.cache
+D:\Dropbox\ARU\IP\BusinessCard\BusinessCard\bin\Debug\BusinessCard.exe.config
+D:\Dropbox\ARU\IP\BusinessCard\BusinessCard\bin\Debug\BusinessCard.exe
+D:\Dropbox\ARU\IP\BusinessCard\BusinessCard\bin\Debug\BusinessCard.pdb
+D:\Dropbox\ARU\IP\BusinessCard\BusinessCard\obj\Debug\BusinessCard.exe
+D:\Dropbox\ARU\IP\BusinessCard\BusinessCard\obj\Debug\BusinessCard.pdb
