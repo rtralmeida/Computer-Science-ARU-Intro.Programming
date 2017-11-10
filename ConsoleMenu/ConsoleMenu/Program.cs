@@ -14,7 +14,6 @@ namespace ConsoleMenu
             do
             {
 
-
                 Console.WriteLine("Program menu: Please select one of the following options");
                 Console.WriteLine("1) Distance in miles");
                 Console.WriteLine("2) Distance in Kilometres");
@@ -52,8 +51,6 @@ namespace ConsoleMenu
             } while (numTrys < 3 && !exitProgram);
 
 
-
-            //Wait at end of program
             Console.ReadLine();
 
 
