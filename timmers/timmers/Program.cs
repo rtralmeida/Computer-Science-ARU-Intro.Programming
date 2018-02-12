@@ -10,7 +10,7 @@ namespace timmers
     class Program
     {
         private static Timer aTimer;
-
+        
         public static void Main()
         {
             // Create a timer and set a two second interval.
